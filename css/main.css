@@ -1,6 +1,6 @@
 /*
 Error: Undefined variable: "$color-title".
-        on line 199 of /! Обучение/Frontend/Задания/html5/Final_Maket/html5_final/scss/main.scss
+        on line 199 of /!Обучение/Frontend/Задания/html5/Final_Maket/html5_final/scss/main.scss
 
 194:         justify-content: center;
 195:     }
@@ -15,7 +15,7 @@ Error: Undefined variable: "$color-title".
 204:         
 
 Backtrace:
-/! Обучение/Frontend/Задания/html5/Final_Maket/html5_final/scss/main.scss:199
+/!Обучение/Frontend/Задания/html5/Final_Maket/html5_final/scss/main.scss:199
 /Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/script/tree/node.rb:50:in `perform'
 /Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.5.2/lib/sass/tree/visitors/perform.rb:402:in `visit_prop'
@@ -72,4 +72,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$color-title\".\A         on line 199 of /! Обучение/Frontend/Задания/html5/Final_Maket/html5_final/scss/main.scss\A \A 194:         justify-content: center;\A 195:     }\A 196:     \A 197:     &-h2 {\A 198:         margin: 29px 0 0 0;\A 199:         color: $color-title;\A 200:         font-family: $font-main;\A 201:         font-weight: 500;\A 202:         font-size: 22px;\A 203:         font-weight: 400;   \A 204:         "; }
+  content: "Error: Undefined variable: \"$color-title\".\A         on line 199 of /!Обучение/Frontend/Задания/html5/Final_Maket/html5_final/scss/main.scss\A \A 194:         justify-content: center;\A 195:     }\A 196:     \A 197:     &-h2 {\A 198:         margin: 29px 0 0 0;\A 199:         color: $color-title;\A 200:         font-family: $font-main;\A 201:         font-weight: 500;\A 202:         font-size: 22px;\A 203:         font-weight: 400;   \A 204:         "; }
